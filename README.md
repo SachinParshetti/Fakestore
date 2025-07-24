@@ -76,6 +76,7 @@ GET /products – Fetch all products
 GET /products/categories – Get all product categories
 
 See full API documentation
+```
 
 
 
